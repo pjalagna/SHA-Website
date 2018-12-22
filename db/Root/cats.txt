@@ -1,0 +1,18 @@
+<cats>
+    <cat index='1'> 
+        <label> Self Portrait </label>
+        <catName> SelfP </catName> // one word key
+    </cat>
+	<cat index='2'> 
+	    <label> current </label>
+	    <catName> current </catName>
+	</cat>
+	<cat index='3'> 
+	    <label> early work </label>
+	    <catName> early </catName>
+	</cat>
+	<cat index='4'> 
+	    <label> pics from the road </label>
+	    <catName> Road </catName>
+	</cat>
+</cats>

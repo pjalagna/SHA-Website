@@ -1,0 +1,35 @@
+<cat index='SelfP'>
+    <list>
+        <index ix='1'>
+            <profile> Joanie1 </profile>
+        </index>
+        <index ix='2'>
+        <profile> aloneInBlue </profile>
+        </index>
+        <index ix='3'>
+        <profile> pearl </profile>
+        </index>
+    </list>
+    <SeriesStatement>
+<div style="font-family: Chalkduster;" style:="" font="pica"><font
+size="+1">
+Self Portraits, for me anyway, have always been a look inward. <br/><br/>
+I read somewhere that we see deeper into ourselves when we stand at the
+edge of our
+understanding. <br/><br/>
+I am pushed to that edge sometimes by depression and the
+confusion it brings. And sometimes I am pushed by curiosity and the
+grand questioning that begged me to ask "why?"</font>
+</div>
+    </SeriesStatement>
+</cat>
+
+
+
+
+
+ 
+
+
+
+

@@ -1,0 +1,57 @@
+<this filename='profile.txt'/>
+<profiles>
+this is the template profile
+    <profile index='*'>
+        <picURL> pic </picURL>
+        <label> - </label>
+        <rawX> - </rawX>
+        <rawY> - </rawY>
+        <artStatement> - </artStatement>
+    </profile> 
+end of template
+
+    <profile index='aloneInBlue'>
+        <picURL> other/aloneInBlue.jpg </picURL>
+        <label> Alone in blue </label>
+        <rawX> 1000 </rawX>
+        <rawY> 815 </rawY>
+        <artStatement>
+this is a statement about a picture I call alone in blue. i like it
+        </artStatement>
+    </profile>
+    
+    <profile index='Joanie1'>
+        <label> Honeymoon July 1975 </label>
+        <picURL> Road/img310.jpg </picURL>
+        <rawX> 2698 </rawX>
+        <rawY> 4117 </rawY>
+        <artStatement>
+this is Joanie ice cream in one hand, map in the other, about to enter the Wiki Wachee theater. Wiki - not WIKI as we internetters have come to know it but really a fabulous underwater theater with mermaids that dance and sing - really. The map is important because if it were not for Joanies navigation skills we'ed still be lost in an orange grove I accidentally drove into and not knowing spanish continued to be lost in - even though I'd given in to asking for directions! The ice cream is important because someone had to pay the navigator.
+        </artStatement>
+    </profile>
+    <profile index='pearl'>
+		</profile>
+			<picURL> Road/img335.jpg </picURL>
+			<label> HaWhyE 1977 </label>
+			<rawX> 2687 </rawX>
+			<rawY> 4042 </rawY>
+			<artStatement> USS Arizona </artStatement>
+		</profile> 
+
+cat.1 from worksheet								
+								
+	<profile index='cat.1.index.1'>	<picURL>db/Road/AdrianaandmeAndSea.jpg</picURL>	<label>Adriana and ma at the sea</label>	<rawY>960</rawY>	<rawX>640</rawX>	<artStatement>Adriana and ma at the sea</artStatement>	    </profile> 	
+	<profile index='cat.1.index.2'>	<picURL>db/Road/AdrianaLibrary.jpg</picURL>	<label>Adriana at the Library</label>	<rawY>720</rawY>	<rawX>960</rawX>	<artStatement>Adriana at the Library</artStatement>	    </profile> 	
+	<profile index='cat.1.index.3'>	<picURL>db/Road/Allthecousins.jpg</picURL>	<label>All the Cousins</label>	<rawY>960</rawY>	<rawX>432</rawX>	<artStatement>All the Cousins</artStatement>	    </profile> 	
+	<profile index='cat.1.index.4'>	<picURL>db/Road/Cesers bay 034.jpg</picURL>	<label>Caesars bay from the air</label>	<rawY>3888</rawY>	<rawX>2592</rawX>	<artStatement>Caesars bay from the air</artStatement>	    </profile> 	
+	<profile index='cat.1.index.5'>	<picURL>db/Road/CousinsPumpkin.jpg</picURL>	<label>Adriana and cousins</label>	<rawY>960</rawY>	<rawX>720</rawX>	<artStatement>Adriana and cousins</artStatement>	    </profile> 	
+	<profile index='cat.1.index.6'>	<picURL>db/Road/img310.jpg</picURL>	<label>Joanie at Wiki</label>	<rawY>2698</rawY>	<rawX>4117</rawX>	<artStatement>Joanie at Wiki</artStatement>	    </profile> 	
+	<profile index='cat.1.index.7'>	<picURL>db/Road/img325.jpg</picURL>	<label>Forrest girl</label>	<rawY>4095</rawY>	<rawX>2730</rawX>	<artStatement>Forrest girl</artStatement>	    </profile> 	
+	<profile index='cat.1.index.8'>	<picURL>db/Road/img335.jpg</picURL>	<label>USS Arizona</label>	<rawY>2687</rawY>	<rawX>4092</rawX>	<artStatement>USS Arizona</artStatement>	    </profile> 	
+	<profile index='cat.1.index.9'>	<picURL>db/Road/JoanieFamily.jpg</picURL>	<label>Joanie family</label>	<rawY>960</rawY>	<rawX>389</rawX>	<artStatement>Joanie family</artStatement>	    </profile> 	
+	<profile index='cat.1.index.10'>	<picURL>db/Road/pumpkinCage.jpg</picURL>	<label>Cousins in a cage</label>	<rawY>720</rawY>	<rawX>960</rawX>	<artStatement>Cousins in a cage</artStatement>	    </profile> 	
+	<profile index='cat.1.index.11'>	<picURL>db/Road/SantinoPumpkin.jpg</picURL>	<label>Santino w/ pumpkin</label>	<rawY>600</rawY>	<rawX>800</rawX>	<artStatement>Santino w/ pumpkin</artStatement>	    </profile> 	
+	<profile index='cat.1.index.12'>	<picURL>db/Road/tinyHugs.jpg</picURL>	<label>Tiny Hugs</label>	<rawY>466</rawY>	<rawX>960</rawX>	<artStatement>Tiny Hugs</artStatement>	    </profile> 	
+	<profile index='cat.2.index.1'>							
+add new profiles here								
+</profiles>
