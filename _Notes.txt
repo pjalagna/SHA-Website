@@ -1,0 +1,55 @@
+file _notes.txt
+=== 12/19/2018
+need to det ratio for bigPic from rawx,rawy
+10/40 = .25 so if x=10 and y=40 then dy=100, dx=25 (.25*100)
+if 100/40 then 2.5 do 40/100 = .4 dx=100 dy=40 (.4 *100)
+if (rawX <= rawY) { dy=100 , dx= (rawx/rawy * 100) 
+} else { dx = 100 , dy = (rawy/rawx)*100 } //
+===
+new from sharon
+mainPage *1 cat=rand, ix=rand 
+-- wk1 2x1 pic[cat,ix],GetSeriesStatement($cat) 
+---- -z-> seriesPage
+seriesPage *1 (cat,ix) 
+-- wk2 = p2 as created w/ series_statement in center 
+---- -z-> bigPic(cat,ix)
+bigPic(cat,ix) 3x4 
+-- pic in c5 
+-- back in c1 ==> ix = rot(ix-1); reload bigPic(cat,ix)
+---- keypress="<" same as back
+-- artStatement in c2 
+-- forward in c3 ==> ix = rot(ix+1); reload bigPic(cat,ix)
+---- keypress=">" same as forward
+-- (to Main) in c7 -z-> mainPage
+-- (to series) in c9 -z-> seriesPage(cat,ix)
+====
+page1 pic ref is page2?ix=&profileName=
+      toc ref is page2?ix=,cat=
+page2 is slide show for cat
+page1 gives cat,ix 
+
+page2(cat,ix)
+-template
+-wk = catSlides via cats.ix=>catName
+===
+make list
+- for production
+Page1.php
+fin.php
+Template.php
+LoadWire1.php
+strParser
+- for development
+template notes
+- change TOC to pickup from cats
+page1 notes
+page2(slides) notes
+big.php notes
+
+db notes
+page --<< cats.catIX
+cats -catName-< catName -profileName-< profiles -picURL-< pic
+cats((ix) catName)
+catName((lix)profileName) # sequenced
+profiles((profileName) picURL, artStatement, rawX, rawY )
+[picFileName]
