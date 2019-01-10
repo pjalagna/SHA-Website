@@ -1,0 +1,9 @@
+<?php
+/*
+file footerTrial.php
+pja 1/9/2019
+*/
+function footerFrame {
+// links to contact , about , bio , instagram, facebook
+} // footerFrame
+?>
